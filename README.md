@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Idhofi</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-<o align="left"> <img src="https://wakatime.com/badge/user/8b7e488d-503a-4ade-a6f3-add8046be8cf/project/c1ee54ea-7cd0-4312-8d42-a0198767970d.svg" alt="wakatime" /> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/8b7e488d-503a-4ade-a6f3-add8046be8cf/project/c1ee54ea-7cd0-4312-8d42-a0198767970d.svg" alt="wakatime" /> </p>
+[![Wakatime Charts](https://github.com/Ahmadidhofi55/Ahmadidhofi55/actions/workflows/main.yml/badge.svg)](https://github.com/Ahmadidhofi55/Ahmadidhofi55/actions/workflows/main.yml)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadidhofi55&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadidhofi55" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadidhofi55" alt="ahmadidhofi55" /></a> </p>
