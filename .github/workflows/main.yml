@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Waka Bot
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+#   update-readme:
+#     name: Update this repo's README
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  update-image:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Ahmadidhofi55/Profile-Readme-WakaTime@main
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          STATS_RANGE: "last_7_days"
