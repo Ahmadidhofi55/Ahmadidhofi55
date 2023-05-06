@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadidhofi55&show_icons=true&locale=en" alt="ahmadidhofi55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadidhofi55&" alt="ahmadidhofi55" /></p>
+
+<h2 align="left" style="color="blue">Weekly Coding Stat</h2>
+<p><img align="center" src="https://github.com/Ahmadidhofi55/Ahmadidhofi55/blob/master/images/stat.svg" alt="coding stat" /></p>
+
