@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Idhofi</h1>
+<h1 align="center">Hi<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="45px">, I'm Ahmad Idhofi</h1>
 <h3 align="center">A passionate backend developer from Indonesia </h3>
 <h3 align="center">I'm 17 years old</h3>
 
