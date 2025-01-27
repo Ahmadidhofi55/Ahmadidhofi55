@@ -22,3 +22,5 @@
  ![](https://github-readme-stats.vercel.app/api?username=ahmadidhofi55&show_icons=true&locale=en)![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadidhofi55&)
  ## | weekly coding Stat
  ![](https://github.com/Ahmadidhofi55/Ahmadidhofi55/blob/master/images/stat.svg)
+ ## | Stat
+ ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
