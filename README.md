@@ -17,6 +17,7 @@
  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  ## | ☁ Cloud
  ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadidhofi55&layout=compact)
  ## | GitHub Stats
  ![](https://github-readme-stats.vercel.app/api/top-langs?username=ahmadidhofi55&show_icons=true&locale=en&layout=compact)
  ![](https://github-readme-stats.vercel.app/api?username=ahmadidhofi55&show_icons=true&locale=en)![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadidhofi55&)
