@@ -23,4 +23,4 @@
  ## | weekly coding Stat
  ![](https://github.com/Ahmadidhofi55/Ahmadidhofi55/blob/master/images/stat.svg)
  ## | Stat
- ![Snake animation](https://github.com/ahmadidhofi55/ahmadidhofi55/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ahmadidhofi55/ahmadidhofi55/blob/master/images/stat.svg/github-contribution-grid-snake.svg)
